@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38208
     wikipedia: http://it.wikipedia.org/wiki/Guido_da_Verona
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38720#L-amore-che-torna
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2012-01-30'
 gutenberg_type: Text
